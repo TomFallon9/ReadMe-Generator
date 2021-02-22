@@ -4,7 +4,7 @@
 
 Built with Node.js
 
-URL of the GitHub repository: https://github.com/TomFallon9/ReadMe-Generator
+https://github.com/TomFallon9/ReadMe-Generator
 
 </div>
 
