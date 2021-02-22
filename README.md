@@ -29,7 +29,7 @@ This command-line application is for developers who need to easily put together 
 ## Installation
 
 The user must have Node installed. To install necessary dependencies  (inquirer), run the following command:
-
+```
 npm i
 ```
 
