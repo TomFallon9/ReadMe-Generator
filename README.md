@@ -76,7 +76,7 @@ The command line from the GIF made this [README](https://github.com/TomFallon9/R
 ## Credits
 
 
-Starting files from © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Starting files from ©  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
 
 ## License
